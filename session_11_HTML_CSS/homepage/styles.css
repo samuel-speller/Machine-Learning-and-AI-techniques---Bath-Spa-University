@@ -44,7 +44,7 @@ body, html {
 
 .parallax {
   /* The image used */
-  background-image: url("pictures/brecon_beacons3.jpg");
+  background-image: url("pictures/brecon_beacons.jpg");
 
   /* Set a specific height */
   min-height: 400px;
